@@ -1,4 +1,9 @@
 #抓取成都链家二手房数据
+#作者：terrysky982
+#用途：python学习
+#时间：2019-4-1
+
+
 import csv
 import requests
 from bs4 import BeautifulSoup
